@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Conn_platform
+# Conn_ZKP_1.3
 #
-DEF Conn_platform J 0 40 Y Y 1 F N
+DEF Conn_ZKP_1.3 J 0 40 Y Y 1 F N
 F0 "J" 50 100 50 H V C CNN
-F1 "Conn_platform" 300 200 50 H V C CNN
+F1 "Conn_ZKP_1.3" 300 200 50 H V C CNN
 F2 "" -50 600 50 H I C CNN
 F3 "" -50 600 50 H I C CNN
 DRAW
