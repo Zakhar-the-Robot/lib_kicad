@@ -5,6 +5,10 @@ D Ultrasonic module
 F Osepp
 $ENDCMP
 #
+$CMP HW-021_TJA1050
+D TJA1050 is the interface between the Controller Area Network (CAN) protocol controller and the physical bus. 
+$ENDCMP
+#
 $CMP HY-SRF05
 D Ultrasonic module
 F Osepp
