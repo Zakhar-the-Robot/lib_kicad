@@ -10,6 +10,7 @@
 *.kicad_pcb-bak
 *.sch-bak
 _saved_*
+*-backups
 
 # Netlists
 *.net
